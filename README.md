@@ -19,7 +19,7 @@
 <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gyfary/gyfary/main/images/github.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gyfary/gyfary/main/images/docker.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gyfary/gyfary/main/images/elastic.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-<a href="https://www.prometheus.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gyfary/gyfary/main/images/prometheus.svg" alt="prometheus" width="40" height="40"/> </a> 
+<a href="https://www.prometheus.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gyfary/gyfary/main/images/prometheusio.svg" alt="prometheus" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gyfary/gyfary/main/images/gcp.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gyfary/gyfary/main/images/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gyfary/gyfary/main/images/grafana.svg" alt="grafana" width="40" height="40"/> </a> 
